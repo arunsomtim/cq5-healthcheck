@@ -24,7 +24,7 @@ gfghfhgfth
  --%>
 <%@page import="de.joerghoh.cq5.healthcheck.Status,
                 de.joerghoh.cq5.healthcheck.StatusService,
-                org.apache.commons.lang3.StringEscapeUtils" session="false"%>
+                org.apache.commons.lang3.StringEscapeUtils" session="true"%>
 <%@include file="/libs/foundation/global.jsp"%>
 <%-- CQ5 health check component. --%>
 <%
